@@ -1,0 +1,4 @@
+TARGETNAME=ssdt_hook
+TARGETPATH=obj
+TARGETTYPE=DRIVER
+SOURCES=hook_sample.c ssdt_hook_function.c
